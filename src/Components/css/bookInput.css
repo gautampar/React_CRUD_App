@@ -1,0 +1,8 @@
+.accordion-button::after {background-image: url(../../asset/Group\ 1.png) !important;}
+.accordion-button:not(.collapsed)::after {background-image: url(../../asset/Frame\ 1.png) !important;}
+.collapse-show {
+    display: block !important;
+}
+.collapse-hide {
+    display: none !important;
+}
